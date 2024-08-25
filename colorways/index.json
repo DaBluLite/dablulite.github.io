@@ -9,6 +9,16 @@
       "tertiary": "#141414",
       "author": "dablulite",
       "authorID": "582170007505731594"
+    },
+    {
+      "name": "🍅 Ntomatosoupa",
+      "accent": "#ff0004",
+      "primary": "#940000",
+      "secondary": "#b80000",
+      "tertiary": "#cc0000",
+      "author": "dablulite",
+      "authorID": "582170007505731594",
+      "creatorVersion": "1.20"
     }
   ]
 }
